@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14ed3534-db7f-45d0-8bf6-3501fe01e71c" name="Default" comment="Title:add new feature&#10;Detail:">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getResult.py" beforeDir="false" afterPath="$PROJECT_DIR$/getResult.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/monkeyTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/monkeyTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/plan.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/monkeyAutoTest$piqi.coverage" NAME="piqi Coverage Results" MODIFIED="1536045987375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-17436848">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.7" value="5" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="log" value="1" />
+          <entry key="py" value="11" />
+          <entry key="txt" value="21" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="Python" value="11" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="11" />
+          <entry key="py" value="6181" />
+          <entry key="txt" value="556" />
+          <entry key="xml" value="102" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="567" />
+          <entry key="Python" value="6181" />
+          <entry key="XML" value="102" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Email.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2100">
+              <caret line="104" selection-start-line="104" selection-start-column="2" selection-end-line="106" selection-end-column="24" />
+              <folding>
+                <marker date="1537347803913" expanded="true" signature="655:664" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monkeyTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="246" selection-start-line="246" selection-end-line="277" selection-end-column="15" />
+              <folding>
+                <element signature="e#176#188#0" expanded="true" />
+                <marker date="1539081611203" expanded="true" signature="24329:24332" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plan.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/getResult.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="831">
+              <caret line="94" column="26" selection-start-line="94" selection-start-column="19" selection-end-line="94" selection-end-column="26" />
+              <folding>
+                <element signature="e#200#209#0" expanded="true" />
+                <marker date="1539066477374" expanded="true" signature="5297:5396" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>100000</find>
+      <find>delete</find>
+      <find>2,0,0</find>
+      <find>PullLogThread</find>
+      <find>duration</find>
+      <find>%d</find>
+      <find>wakeup</find>
+      <find>logInter</find>
+      <find>pullLog</find>
+      <find>logInterval</find>
+      <find>Excute</find>
+      <find>getS</find>
+      <find>hasfinished</find>
+      <find>get_upload_files</find>
+      <find>700</find>
+      <find>7</find>
+      <find>package_con</find>
+      <find>260</find>
+      <find>contacts</find>
+      <find>10000</find>
+      <find>pull</find>
+      <find>ExcuteMonkeyThread</find>
+      <find>plain</find>
+      <find>xml</find>
+      <find>get_S</find>
+      <find>sn =</find>
+      <find>get_error_time</find>
+      <find>path =</find>
+      <find>getResu</find>
+      <find>check</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/allModule/MonkeyTest.py" />
+        <option value="$PROJECT_DIR$/singleModule/packages.txt" />
+        <option value="$PROJECT_DIR$/singleModule/custmonkeytest.py" />
+        <option value="$PROJECT_DIR$/getwhitelist.py" />
+        <option value="$PROJECT_DIR$/hh.py" />
+        <option value="$PROJECT_DIR$/ss.py" />
+        <option value="$PROJECT_DIR$/sdw.py" />
+        <option value="$PROJECT_DIR$/MonkeyLog/monkey/monkey_900993_18_42_31_Errorcount.txt" />
+        <option value="$PROJECT_DIR$/MonkeyLog/stopMonkeyTest.py" />
+        <option value="$PROJECT_DIR$/stopMonkeyTest.py" />
+        <option value="$PROJECT_DIR$/powerOff.py" />
+        <option value="$PROJECT_DIR$/example.py" />
+        <option value="$PROJECT_DIR$/poweroff.py" />
+        <option value="$PROJECT_DIR$/MonkeyLog/com.facebook.lite/ABCDEF/piqi.py" />
+        <option value="$PROJECT_DIR$/piqi.py" />
+        <option value="$PROJECT_DIR$/settings.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/sendEmail.py" />
+        <option value="$PROJECT_DIR$/Email.py" />
+        <option value="$PROJECT_DIR$/uploadlog.py" />
+        <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/getResult.py" />
+        <option value="$PROJECT_DIR$/plan.xml" />
+        <option value="$PROJECT_DIR$/monkeyTest.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="264" />
+    <option name="y" value="98" />
+    <option name="width" value="1592" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="monkeyAutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monkeyAutoTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monkeyAutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monkeyAutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="AllLog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monkeyAutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monkeyAutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MonkeyLog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monkeyAutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monkeyAutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MonkeyLog" type="462c0819:PsiDirectoryNode" />
+              <item name="com.android.contacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monkeyAutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monkeyAutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MonkeyLog" type="462c0819:PsiDirectoryNode" />
+              <item name="com.android.contacts" type="462c0819:PsiDirectoryNode" />
+              <item name="L0317#" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monkeyAutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monkeyAutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MonkeyLog" type="462c0819:PsiDirectoryNode" />
+              <item name="com.huawei.android.launcher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="monkeyAutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="monkeyAutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MonkeyLog" type="462c0819:PsiDirectoryNode" />
+              <item name="com.huawei.android.launcher" type="462c0819:PsiDirectoryNode" />
+              <item name="L0320#" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Cython" />
+    <property name="last_opened_file_path" value="$USER_HOME$/monkeyToolAssistant" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MonkeyLog/com.facebook.lite/900301" />
+      <recent name="$PROJECT_DIR$/MonkeyLog" />
+      <recent name="$PROJECT_DIR$/com.android.music" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/MonkeyLog/com.facebook.lite/ABCDEF" />
+      <recent name="$PROJECT_DIR$/MonkeyLog/com.facebook.lite/900301" />
+      <recent name="$PROJECT_DIR$/MonkeyLog" />
+      <recent name="$PROJECT_DIR$/MonkeyLog/monkey" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.piqi">
+    <configuration name="piqi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="monkeyAutoTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/piqi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests in monkeyAutoTest" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="monkeyAutoTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Nosetests in monkeyAutoTest" />
+      <item itemvalue="Python.piqi" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.piqi" />
+        <item itemvalue="Python tests.Nosetests in monkeyAutoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14ed3534-db7f-45d0-8bf6-3501fe01e71c" name="Default" comment="" />
+      <created>1524735741569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524735741569</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Title:modify after test finish poweroff phone">
+      <created>1524744388132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524744388132</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Title:modify after test finish poweroff phone">
+      <created>1524744429460</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1524744429460</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Title:adopt to python style">
+      <created>1529397157498</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1529397157498</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Title:fix bug&#10;Detail:fix log can`t analyzed bug">
+      <created>1530599010097</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1530599010098</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Title:rename Error log filename to errorList">
+      <created>1530605569905</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1530605569905</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Title:rename Error log filename to Errorlist">
+      <created>1530605829317</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1530605829317</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Title:set logInterval 2h Throll 100000">
+      <created>1530785069034</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1530785069034</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Title:add new feature&#10;Detail:modify getResult.py to add generate Errorcount file">
+      <created>1530855562590</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1530855562590</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Title:add new feature&#10;Detail:add stopMonkeyTest script">
+      <created>1531039836998</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1531039836998</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Title:add new feature&#10;Detail:add stopMonkeyTest script">
+      <created>1531190280995</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1531190280995</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Title:add new feature&#10;Detail:add before monkey to delete monkey log gemerated before">
+      <created>1531708467932</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1531708467933</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Title:add new feature&#10;Detail:add stopMonkeyTest script">
+      <created>1531708495468</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1531708495468</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Title:add new feature&#10;Detail:add get tombstone log">
+      <created>1531708601820</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1531708601820</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Title:add new feature&#10;Detail:add stopMonkeyTest script">
+      <created>1531709988727</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1531709988727</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Title:improve getResult &#10;Detail:modify getResult.py">
+      <created>1531720338697</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1531720338697</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Title:reformat code&#10;Detail:">
+      <created>1531720636952</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1531720636952</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Title:add new feature&#10;Detail:add config file in project">
+      <created>1532075649309</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1532075649309</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Title:add fix bug&#10;Detail:fix bug in add plan function">
+      <created>1532315685075</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1532315685075</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Title:fix bug &#10;Detail:modify getResult.py">
+      <created>1532410348102</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1532410348102</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Title:fix bug&#10;Detail:fix bug in getResult.py">
+      <created>1536563382133</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1536563382133</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Title:fix bugs &#10;Detail:modify getResult &amp;&amp; monkeyTest.py">
+      <created>1537931219784</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1537931219784</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Title:add new feature&#10;Detail:add email Notify function">
+      <created>1538978113711</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1538978113712</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Title:fix bug&#10;Detail:fix Email content mistakes">
+      <created>1538978256222</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1538978256222</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Title:add new feature&#10;Detail:if there is no phone issue founded delete logs in AllLog folder which is adapt to the phone">
+      <created>1538986123675</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1538986123675</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Nosetests_in_monkeyAutoTest - 2018.07.25 at 08h 55m 52s.xml">
+      <configuration name="Nosetests in monkeyAutoTest" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1922" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.271855" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3264865" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32829374" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32864866" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.403452" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32942432" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.32942432" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Title:modify after test finish poweroff phone" />
+    <MESSAGE value="Title:adopt to python style" />
+    <MESSAGE value="Title:fix bug&#10;Detail:fix log can`t analyzed bug" />
+    <MESSAGE value="Title:rename Error log filename to errorList" />
+    <MESSAGE value="Title:rename Error log filename to Errorlist" />
+    <MESSAGE value="Title:set logInterval 2h Throll 100000" />
+    <MESSAGE value="Title:add new feature&#10;Detail:modify getResult.py to add generate Errorcount file" />
+    <MESSAGE value="Title:add new feature&#10;Detail:add before monkey to delete monkey log gemerated before" />
+    <MESSAGE value="Title:add new feature&#10;Detail:add get tombstone log" />
+    <MESSAGE value="Title:add new feature&#10;Detail:add stopMonkeyTest script" />
+    <MESSAGE value="Title:improve getResult &#10;Detail:modify getResult.py" />
+    <MESSAGE value="Title:reformat code&#10;Detail:" />
+    <MESSAGE value="Title:add new feature&#10;Detail:add config file in project" />
+    <MESSAGE value="Title:add fix bug&#10;Detail:fix bug in add plan function" />
+    <MESSAGE value="Title:fix bug &#10;Detail:modify getResult.py" />
+    <MESSAGE value="Title:fix bug&#10;Detail:fix bug in getResult.py" />
+    <MESSAGE value="Title:fix bugs &#10;Detail:modify getResult &amp;&amp; monkeyTest.py" />
+    <MESSAGE value="Title:add new feature&#10;Detail:add email Notify function" />
+    <MESSAGE value="Title:fix bug&#10;Detail:fix Email content mistakes" />
+    <MESSAGE value="Title:add new feature&#10;Detail:if there is no phone issue founded delete logs in AllLog folder which is adapt to the phone" />
+    <option name="LAST_COMMIT_MESSAGE" value="Title:add new feature&#10;Detail:if there is no phone issue founded delete logs in AllLog folder which is adapt to the phone" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.huawei.camera/ABCDEF/com.huawei.camera_ABCDEF_09_36_42.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.huawei.camera/ABCDEF/com.huawei.camera_ABCDEF_09_50_48.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.huawei.camera/ABCDEF/com.huawei.camera_ABCDEF_09_50_48_Errorcount.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.huawei.camera/ABCDEF/com.huawei.camera_ABCDEF_09_50_48_Errorlist.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.huawei.camera/ABCDEF/com.huawei.camera_ABCDEF_09_50_48_Timetag.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/monkey/900809/monkey_900809_09_50_48_Errorcount.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/monkey/900809/monkey_900809_09_50_48_Errorlist.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/monkey/900809/monkey_900809_09_50_48.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/monkey/900809/monkey_900809_09_50_48_Timetag.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.facebook.lite/com.facebook.lite_900301_12_07_56_Errorcount.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.facebook.lite/900301/com.facebook.lite_900301_12_07_56_Timetag.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.facebook.lite/900301/com.facebook.lite_900301_12_07_56.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.facebook.lite/900301/monkey_15_Timetag.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.facebook.lite/900301/monkey_15_Errorlist.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.facebook.lite/900301/com.facebook.lite_900301_12_07_56_Errorcount.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.facebook.lite/900301/com.facebook.lite_900301_12_07_56_Errorlist.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.facebook.lite/900301/monkey_15.log_Errorcount.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.facebook.lite/900301/monkey_15_Errorcount.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.facebook.lite/ABCDEF/monkey_15.log_Errorlist.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.facebook.lite/ABCDEF/monkey_15.log_Errorcount.txt" />
+    <entry file="file://$PROJECT_DIR$/piqi.py" />
+    <entry file="file:///usr/lib/python2.7/lib-tk/turtle.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.facebook.lite/900301/monkey_15.log" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.facebook.lite/ABCDEF/monkey_15.log" />
+    <entry file="file://$PROJECT_DIR$/existsfile.log" />
+    <entry file="file://$PROJECT_DIR$/whitelist900809.txt" />
+    <entry file="file://$PROJECT_DIR$/poweroff.py" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.huawei.camera/900241/com.huawei.camera_900241_15_36_55_Timetag.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.huawei.camera/900241/com.huawei.camera_900241_15_36_55_Errorlist.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.huawei.camera/900241/com.huawei.camera_900241_15_36_55_Errorcount.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.huawei.camera/900241/com.huawei.camera_900241_15_36_55.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.huawei.camera/900241/com.huawei.camera_900241_15_51_32_Timetag.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/monkey/900345/monkey_900345_15_51_27.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.huawei.camera/900241/com.huawei.camera_900241_15_51_32.txt" />
+    <entry file="file://$PROJECT_DIR$/app.txt" />
+    <entry file="file://$PROJECT_DIR$/RST9K18122900345_app.txt" />
+    <entry file="file://$PROJECT_DIR$/LJY9K18321900241_app.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.android.email/900345/com.android.email_900345_16_53_19_Errorcount.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.android.email/900345/com.android.email_900345_16_53_19.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.android.contacts/L0317#/com.android.contacts_900333_14_01_54.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.android.contacts/L0317#/com.android.contacts_900333_14_01_54_Errorcoun_Errorcount.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.android.contacts/L0317#/com.android.contacts_900333_14_01_54_Errorcount.txt" />
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.android.contacts/L0317#/com.android.contacts_900333_15_48_43_Timetag.txt" />
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploadlog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MonkeyLog/com.android.contacts/L0317#/com.android.contacts_D00903_13_50_04.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1638" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="104" selection-start-line="104" selection-start-column="2" selection-end-line="106" selection-end-column="24" />
+          <folding>
+            <marker date="1537347803913" expanded="true" signature="655:664" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monkeyTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="246" selection-start-line="246" selection-end-line="277" selection-end-column="15" />
+          <folding>
+            <element signature="e#176#188#0" expanded="true" />
+            <marker date="1539081611203" expanded="true" signature="24329:24332" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plan.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getResult.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="831">
+          <caret line="94" column="26" selection-start-line="94" selection-start-column="19" selection-end-line="94" selection-end-column="26" />
+          <folding>
+            <element signature="e#200#209#0" expanded="true" />
+            <marker date="1539066477374" expanded="true" signature="5297:5396" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

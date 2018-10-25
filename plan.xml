@@ -1,0 +1,26 @@
+<collection shelf="Test Info">
+    <!--配置规则：
+        1. 黑名单和白名单不能同时配置
+        2. 多个包名时需要用分号“;”隔开
+        3. 需保证每个手机的SN号不一样
+        4. testduration为大概测试时长，单位小时,若为Packagetest 则配置值为每个报名的测试时长
+        5. logInterval为pulllog 的时间间隔，单位为秒-->
+    <phone SN="5LX9K18115900727">
+        <tag>L0317#</tag>
+        <model>Dura-L03</model>
+        <whitelist></whitelist>
+        <blacklist></blacklist>
+        <package>com.android.contacts</package>
+        <testduration>0.1</testduration>
+        <loginterval>60</loginterval>
+    </phone>
+	<phone SN="5LX9K18115900798">
+        <tag>L0320#</tag>
+        <model>Dura-L03</model>
+        <whitelist></whitelist>
+        <blacklist></blacklist>
+        <package>com.huawei.android.launcher</package>
+        <testduration>0.1</testduration>
+        <loginterval>60</loginterval>
+    </phone>
+</collection>
